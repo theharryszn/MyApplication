@@ -3,10 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../Library/Android/sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.1" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1065" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1065" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2334330910645575" />
+        <entry key="app/src/main/res/drawable/ic_round_add_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/round_corner.xml" value="0.109" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.284375" />
+        <entry key="app/src/main/res/layout/activity_main3.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_main4.xml" value="0.23129542539546816" />
+        <entry key="app/src/main/res/layout/activity_main5.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_main6.xml" value="0.23129542539546816" />
+        <entry key="app/src/main/res/layout/activity_main7.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/round_corners.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/d.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1085" />
       </map>
     </option>
   </component>
