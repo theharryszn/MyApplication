@@ -8,6 +8,7 @@
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1065" />
         <entry key="app/src/main/res/drawable/ic_round_add_24.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/round_corner.xml" value="0.109" />
+        <entry key="app/src/main/res/layout/activity_animation.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.284375" />
         <entry key="app/src/main/res/layout/activity_main3.xml" value="0.335" />
@@ -15,6 +16,7 @@
         <entry key="app/src/main/res/layout/activity_main5.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_main6.xml" value="0.23129542539546816" />
         <entry key="app/src/main/res/layout/activity_main7.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main8.xml" value="0.23129542539546816" />
         <entry key="app/src/main/res/layout/list_item.xml" value="0.1" />
         <entry key="app/src/main/res/layout/round_corners.xml" value="0.1" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/d.xml" value="0.1" />
