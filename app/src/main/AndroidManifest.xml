@@ -16,7 +16,7 @@
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
         <activity
-            android:name=".RecyclerViewActivity"
+            android:name=".MainActivity10"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,8 +25,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity9"
+            android:name=".RecyclerViewActivity"
             android:exported="true"/>
+        <activity
+            android:name=".MainActivity9"
+            android:exported="true" />
         <activity
             android:name=".Animation"
             android:exported="true" />

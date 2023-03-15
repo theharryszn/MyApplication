@@ -20,6 +20,11 @@ class RecyclerViewActivity : AppCompatActivity() {
 
         recyclerView.layoutManager = LinearLayoutManager(this)
 
-        recyclerView.adapter = NewsAdapter(newsList)
+        val newsAdapter = NewsAdapter(newsList)
+        recyclerView.adapter = newsAdapter
+
+
+
+        newsAdapter.notifyDataSetChanged()
     }
 }

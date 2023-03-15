@@ -26,8 +26,13 @@ class MainActivity3 : AppCompatActivity() {
             intent.putExtra("email", email)
             intent.putExtra("password", password)
 
-            startActivity(intent)
+
+            startActivityForResult(intent, 2)
         }
 
+    }
+
+    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
+        super.onActivityResult(requestCode, resultCode, data)
     }
 }

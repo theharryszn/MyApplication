@@ -26,7 +26,296 @@ data class News(val heading: String, val content: String) {
                     "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
                     "\n" +
                     "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\"")
-        )
+       , News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\"")
+            , News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""), News("Manchester United's Erik ten Hag questions inconsistent VAR after Casemiro red", "Erik ten Hag slammed the use of VAR in the Premier League as \"inconsistent\" after Casemiro was sent off for a second time in his Manchester United career.\n" +
+                    "\n" +
+                    "The midfielder was shown a red card for a high challenge on Carlos Alcaraz during the 0-0 draw with Southampton on Sunday after referee Anthony Taylor was advised to consult the pitchside monitor by VAR Andre Marriner.\n" +
+                    "\n" +
+                    "- Dawson: Southampton put brakes on Man United's momentum\n" +
+                    "\n" +
+                    "Ten Hag was incensed by the decision, particularly after Leicester City defender Ricardo Pereira escaped punishment for a similar challenge on Chelsea's Joao Felix on Saturday.\n" +
+                    "\n" +
+                    "Ten Hag also thought United should have had a penalty when Armel Bella-Kotchap appeared to handle Marcus Rashford's cross in the penalty area.\n" +
+                    "\n" +
+                    "\"What I think is the inconsistency, players don't know anymore what is the policy,\" Ten Hag said. \"I think, all across, you see this weekend Leicester versus Chelsea, VAR is not coming on the line [the pitchside monitor].\n" +
+                    "\n" +
+                    "\"Today, it is coming on the line, and today two penalty situations, they don't come on the line. I think especially the first, it is clear and obvious handball. So, what is the policy?\""))
     }
 }
 
