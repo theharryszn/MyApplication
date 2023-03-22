@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ItemInactive">
+        <item name="itemTextColor">#FF333333</item>
+        <item name="itemIconTint">#FF333333</item>
+    </style>
+</resources>

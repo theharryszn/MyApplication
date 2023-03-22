@@ -1,7 +1,9 @@
 package com.muiz.myapplication.data
 
+import java.io.Serializable
 
-data class News(val heading: String, val content: String) {
+
+data class News(val heading: String, val content: String): Serializable {
     companion object {
         val defaultNews = arrayListOf(
             News("Liverpool crash back to reality, Dortmund hand Bayern the advantage, De Gea saves Man Utd: Weekend Review", "Liverpool's inconsistency is threatening to deny Jurgen Klopp's team a top-four finish in the Premier League. Or, to be more precise, their consistency in dropping points against struggling opponents is the reason they are now six points adrift of fourth spot.\n" +

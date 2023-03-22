@@ -9,6 +9,8 @@
         <entry key="app/src/main/res/drawable/ic_round_add_24.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/round_corner.xml" value="0.109" />
         <entry key="app/src/main/res/layout/activity_animation.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_bottom_navigation.xml" value="0.22759781236853177" />
+        <entry key="app/src/main/res/layout/activity_fragements.xml" value="0.23129542539546816" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
         <entry key="app/src/main/res/layout/activity_main10.xml" value="0.15384615384615385" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.284375" />
@@ -20,11 +22,14 @@
         <entry key="app/src/main/res/layout/activity_main8.xml" value="0.23129542539546816" />
         <entry key="app/src/main/res/layout/activity_main9.xml" value="0.15384615384615385" />
         <entry key="app/src/main/res/layout/activity_recycler_view.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment__two.xml" value="0.23129542539546816" />
         <entry key="app/src/main/res/layout/fragment_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_one.xml" value="0.23129542539546816" />
         <entry key="app/src/main/res/layout/list_item.xml" value="0.1" />
         <entry key="app/src/main/res/layout/news_item.xml" value="0.22759781236853177" />
         <entry key="app/src/main/res/layout/round_corners.xml" value="0.1" />
         <entry key="app/src/main/res/layout/switch_item.xml" value="0.23129542539546816" />
+        <entry key="app/src/main/res/menu/app_menu.xml" value="0.2304403591278324" />
         <entry key="app/src/main/res/menu/context_menu.xml" value="0.22759781236853177" />
         <entry key="app/src/main/res/menu/options_menu.xml" value="0.23129542539546816" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/d.xml" value="0.1" />
