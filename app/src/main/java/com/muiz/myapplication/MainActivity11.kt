@@ -36,7 +36,7 @@ class MainActivity11 : AppCompatActivity() {
         val client = OkHttpClient()
 
         val request = Request.Builder()
-            .url("https://restcountries.com/v3.1/all")
+            .url("https://restcountries.com/v3.1/region/europe")
             .build()
 
 

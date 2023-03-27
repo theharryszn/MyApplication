@@ -23,8 +23,6 @@ class RecyclerViewActivity : AppCompatActivity() {
         val newsAdapter = NewsAdapter(newsList)
         recyclerView.adapter = newsAdapter
 
-
-
         newsAdapter.notifyDataSetChanged()
     }
 }

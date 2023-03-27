@@ -1,11 +1,13 @@
 package com.muiz.myapplication.adapter
 
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.muiz.myapplication.MainActivity12
 import com.muiz.myapplication.R
 import com.muiz.myapplication.data.Country
 import com.squareup.picasso.Picasso
@@ -31,7 +33,10 @@ class CountriesAdapter(private val countries: List<Country>): RecyclerView.Adapt
         holder.flagImageView.contentDescription = country.flag.description
 
         holder.itemView.setOnClickListener {
-            // go to country activity
+            val i = Intent(holder.itemView.context, MainActivity12::class.java)
+            i.putExtra("name", country.name)
+
+            holder.itemView.context.startActivity(i)
         }
     }
 
